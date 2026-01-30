@@ -1,2 +1,3 @@
-# test-repo2-d3a217d3
-Repository for Simple Frontend
+# Simple Frontend
+
+Build me a frontend where I can input my name and the name will be displayed when I click save
